@@ -5,7 +5,4 @@
 - [Jordan Messer - Team StoryTime PR](https://github.com/vappleton/SER316-Icebreaker-StoryTime/pull/15)
 - [Troy May - Team BlackForest PR](https://github.com/fanayaal/BlackForest-SER316-Story/pull/5)
 * [Charles Watari -Team Vappleton PR](https://github.com/JohnC13V34/SER316-Icebreaker-StoryTime.git)
-
-
-
-
+- [Kyle Thompson - Team Hanseatic PR] (https://github.com/ckbrow16/Hanseatic-Icebreaker/pull/7)
